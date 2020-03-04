@@ -1,6 +1,5 @@
 # my-website
 
 This is a really awesome website
-Changes on branch example
 
-Update locally
+Updates made on master on Github before rebase

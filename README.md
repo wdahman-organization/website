@@ -3,4 +3,4 @@
 This is a really awesome website
 Changes on branch example
 
-Reademe update
+Update locally
